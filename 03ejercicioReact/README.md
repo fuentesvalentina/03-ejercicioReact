@@ -1,8 +1,7 @@
-# React + Vite
+React Hello World App
+Este proyecto es una aplicación web simple creada con React que muestra un saludo personalizado y permite cambiar el estado mediante un botón.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Funcionalidades
+Saludo personalizado: La aplicación muestra un saludo básico con un mensaje personalizado proporcionado como propiedad al componente principal.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Cambio de Estado: Al hacer clic en el botón "Click me", se modifica el estado interno de la aplicación, actualizando el mensaje en pantalla.
