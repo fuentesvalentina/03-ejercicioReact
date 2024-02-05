@@ -8,3 +8,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App tituloProps = "my friend!"/>
   </React.StrictMode>,
 )
+
